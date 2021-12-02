@@ -25,7 +25,7 @@ status-website: # Status website (optional)
   logoUrl: https://raw.githubusercontent.com/sanderDijkxhoorn/uptime/master/assets/bell.svg
   theme: dark
   #introTitle: "Welcome :)"
-  #introMessage: Bla bla bla text here....
+  #introMessage: Bla bla bla text here...
   navbar:
     - title: Uptime
       href: /
