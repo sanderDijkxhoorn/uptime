@@ -1,4 +1,4 @@
-# [📈 Live Status](https://status2.zyki.net): <!--live status--> **🟥 Complete outage**
+# [📈 Live Status](https://uptime.zyki.net): <!--live status--> **🟥 Complete outage**
 
 This repository contains the open-source uptime monitor and status page for [Sander Dijkxhoorn](http://zyki.nl/), powered by [Upptime](https://github.com/upptime/upptime).
 
@@ -21,6 +21,6 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://status2.zyki.net)
+[**Visit our status website →**](https://uptime.zyki.net)
 
 ## 📄 License
