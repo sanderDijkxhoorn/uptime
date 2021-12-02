@@ -4,19 +4,19 @@
     "url": "https://zyki.net/",
     "icon": "https://favicons.githubusercontent.com/zyki.net",
     "slug": "zyki-net",
-    "status": "down",
-    "uptime": "0.05%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "0.05%",
-    "uptimeMonth": "0.05%",
-    "uptimeYear": "0.05%",
-    "time": 114,
-    "timeDay": 114,
-    "timeWeek": 114,
-    "timeMonth": 114,
-    "timeYear": 114,
+    "status": "up",
+    "uptime": "11.19%",
+    "uptimeDay": "11.19%",
+    "uptimeWeek": "11.19%",
+    "uptimeMonth": "11.19%",
+    "uptimeYear": "11.19%",
+    "time": 224,
+    "timeDay": 224,
+    "timeWeek": 224,
+    "timeMonth": 224,
+    "timeYear": 224,
     "dailyMinutesDown": {
-      "2021-12-02": 36
+      "2021-12-02": 43
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://school.zyki.net/",
     "icon": "https://favicons.githubusercontent.com/school.zyki.net",
     "slug": "school-zyki-net",
-    "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
-    "time": 80,
-    "timeDay": 80,
-    "timeWeek": 80,
-    "timeMonth": 80,
-    "timeYear": 80,
+    "status": "up",
+    "uptime": "11.18%",
+    "uptimeDay": "11.18%",
+    "uptimeWeek": "11.18%",
+    "uptimeMonth": "11.18%",
+    "uptimeYear": "11.18%",
+    "time": 142,
+    "timeDay": 142,
+    "timeWeek": 142,
+    "timeMonth": 142,
+    "timeYear": 142,
     "dailyMinutesDown": {
-      "2021-12-02": 36
+      "2021-12-02": 43
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://status.zyki.net/",
     "icon": "https://favicons.githubusercontent.com/status.zyki.net",
     "slug": "status-zyki-net",
-    "status": "down",
-    "uptime": "0.05%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "0.05%",
-    "uptimeMonth": "0.05%",
-    "uptimeYear": "0.05%",
-    "time": 100,
-    "timeDay": 100,
-    "timeWeek": 100,
-    "timeMonth": 100,
-    "timeYear": 100,
+    "status": "up",
+    "uptime": "11.10%",
+    "uptimeDay": "11.10%",
+    "uptimeWeek": "11.10%",
+    "uptimeMonth": "11.10%",
+    "uptimeYear": "11.10%",
+    "time": 412,
+    "timeDay": 412,
+    "timeWeek": 412,
+    "timeMonth": 412,
+    "timeYear": 412,
     "dailyMinutesDown": {
-      "2021-12-02": 36
+      "2021-12-02": 43
     }
   },
   {
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1043,
-    "timeDay": 1043,
-    "timeWeek": 1043,
-    "timeMonth": 1043,
-    "timeYear": 1043,
+    "time": 1034,
+    "timeDay": 1034,
+    "timeWeek": 1034,
+    "timeMonth": 1034,
+    "timeYear": 1034,
     "dailyMinutesDown": {}
   }
 ]
