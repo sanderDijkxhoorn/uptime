@@ -1,0 +1,80 @@
+[
+  {
+    "name": "zyki.net",
+    "url": "https://zyki.net/",
+    "icon": "https://favicons.githubusercontent.com/zyki.net",
+    "slug": "zyki-net",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 303,
+    "timeDay": 303,
+    "timeWeek": 303,
+    "timeMonth": 303,
+    "timeYear": 303,
+    "dailyMinutesDown": {
+      "2021-12-02": 43
+    }
+  },
+  {
+    "name": "school.zyki.net",
+    "url": "https://school.zyki.net/",
+    "icon": "https://favicons.githubusercontent.com/school.zyki.net",
+    "slug": "school-zyki-net",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 187,
+    "timeDay": 187,
+    "timeWeek": 187,
+    "timeMonth": 187,
+    "timeYear": 187,
+    "dailyMinutesDown": {
+      "2021-12-02": 43
+    }
+  },
+  {
+    "name": "status.zyki.net",
+    "url": "https://status.zyki.net/",
+    "icon": "https://favicons.githubusercontent.com/status.zyki.net",
+    "slug": "status-zyki-net",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 529,
+    "timeDay": 529,
+    "timeWeek": 529,
+    "timeMonth": 529,
+    "timeYear": 529,
+    "dailyMinutesDown": {
+      "2021-12-02": 43
+    }
+  },
+  {
+    "name": "zyki.nl",
+    "url": "http://zyki.nl/",
+    "icon": "https://favicons.githubusercontent.com/zyki.nl",
+    "slug": "zyki-nl",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1021,
+    "timeDay": 1021,
+    "timeWeek": 1021,
+    "timeMonth": 1021,
+    "timeYear": 1021,
+    "dailyMinutesDown": {}
+  }
+]
