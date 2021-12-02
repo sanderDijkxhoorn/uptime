@@ -1,60 +1,22 @@
 [
   {
-    "name": "zyki.net",
-    "url": "https://zyki.net",
+    "name": "Zyki",
+    "url": "https://zyki.net/",
     "icon": "https://favicons.githubusercontent.com/zyki.net",
-    "slug": "zyki-net",
+    "slug": "zyki",
     "status": "down",
-    "uptime": "6.51%",
-    "uptimeDay": "6.51%",
-    "uptimeWeek": "6.51%",
-    "uptimeMonth": "6.51%",
-    "uptimeYear": "6.51%",
-    "time": 128,
-    "timeDay": 128,
-    "timeWeek": 128,
-    "timeMonth": 128,
-    "timeYear": 128,
+    "uptime": "15.73%",
+    "uptimeDay": "15.73%",
+    "uptimeWeek": "15.73%",
+    "uptimeMonth": "15.73%",
+    "uptimeYear": "15.73%",
+    "time": 184,
+    "timeDay": 184,
+    "timeWeek": 184,
+    "timeMonth": 184,
+    "timeYear": 184,
     "dailyMinutesDown": {
       "2021-12-02": 0
     }
-  },
-  {
-    "name": "school.zyki.net",
-    "url": "https://school.zyki.net",
-    "icon": "https://favicons.githubusercontent.com/school.zyki.net",
-    "slug": "school-zyki-net",
-    "status": "down",
-    "uptime": "4.46%",
-    "uptimeDay": "4.46%",
-    "uptimeWeek": "4.46%",
-    "uptimeMonth": "4.46%",
-    "uptimeYear": "4.46%",
-    "time": 62,
-    "timeDay": 62,
-    "timeWeek": 62,
-    "timeMonth": 62,
-    "timeYear": 62,
-    "dailyMinutesDown": {
-      "2021-12-02": 0
-    }
-  },
-  {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
-    "slug": "hacker-news",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 110,
-    "timeDay": 110,
-    "timeWeek": 110,
-    "timeMonth": 110,
-    "timeYear": 110,
-    "dailyMinutesDown": {}
   }
 ]
