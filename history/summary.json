@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/zyki.net",
     "slug": "zyki-net",
     "status": "down",
-    "uptime": "2.72%",
-    "uptimeDay": "2.72%",
-    "uptimeWeek": "2.72%",
-    "uptimeMonth": "2.72%",
-    "uptimeYear": "2.72%",
-    "time": 129,
-    "timeDay": 129,
-    "timeWeek": 129,
-    "timeMonth": 129,
-    "timeYear": 129,
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
+    "time": 107,
+    "timeDay": 107,
+    "timeWeek": 107,
+    "timeMonth": 107,
+    "timeYear": 107,
     "dailyMinutesDown": {
-      "2021-12-02": 0
+      "2021-12-02": 15
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/school.zyki.net",
     "slug": "school-zyki-net",
     "status": "down",
-    "uptime": "7.52%",
-    "uptimeDay": "7.52%",
-    "uptimeWeek": "7.52%",
-    "uptimeMonth": "7.52%",
-    "uptimeYear": "7.52%",
-    "time": 83,
-    "timeDay": 83,
-    "timeWeek": 83,
-    "timeMonth": 83,
-    "timeYear": 83,
+    "uptime": "0.11%",
+    "uptimeDay": "0.11%",
+    "uptimeWeek": "0.11%",
+    "uptimeMonth": "0.11%",
+    "uptimeYear": "0.11%",
+    "time": 76,
+    "timeDay": 76,
+    "timeWeek": 76,
+    "timeMonth": 76,
+    "timeYear": 76,
     "dailyMinutesDown": {
-      "2021-12-02": 0
+      "2021-12-02": 15
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/status.zyki.net",
     "slug": "status-zyki-net",
     "status": "down",
-    "uptime": "4.91%",
-    "uptimeDay": "4.91%",
-    "uptimeWeek": "4.91%",
-    "uptimeMonth": "4.91%",
-    "uptimeYear": "4.91%",
-    "time": 76,
-    "timeDay": 76,
-    "timeWeek": 76,
-    "timeMonth": 76,
-    "timeYear": 76,
+    "uptime": "0.07%",
+    "uptimeDay": "0.07%",
+    "uptimeWeek": "0.07%",
+    "uptimeMonth": "0.07%",
+    "uptimeYear": "0.07%",
+    "time": 70,
+    "timeDay": 70,
+    "timeWeek": 70,
+    "timeMonth": 70,
+    "timeYear": 70,
     "dailyMinutesDown": {
-      "2021-12-02": 0
+      "2021-12-02": 14
     }
   },
   {
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1099,
-    "timeDay": 1099,
-    "timeWeek": 1099,
-    "timeMonth": 1099,
-    "timeYear": 1099,
+    "time": 1078,
+    "timeDay": 1078,
+    "timeWeek": 1078,
+    "timeMonth": 1078,
+    "timeYear": 1078,
     "dailyMinutesDown": {}
   }
 ]
