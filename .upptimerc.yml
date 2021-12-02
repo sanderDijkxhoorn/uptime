@@ -1,10 +1,14 @@
 owner: sanderDijkxhoorn
 repo: uptime
 sites: 
-  - name: Zyki
+  - name: zyki.net
     url: https://zyki.net/
-  - name: Zyki school
+  - name: school.zyki.net
     url: https://school.zyki.net/
+  - name: status.zyki.net
+    url: https://status.zyki.net/
+  - name: zyki.nl
+    url: http://zyki.nl/
 
 assignees: 
   - sanderDijkxhoorn
