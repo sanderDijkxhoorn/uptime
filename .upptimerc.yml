@@ -3,13 +3,20 @@ repo: uptime
 sites: 
   - name: zyki.net
     url: https://zyki.net/
+    headers:
+      - "User-Agent: sanderDijkxhoorn's uptime"
   - name: school.zyki.net
     url: https://school.zyki.net/
+    headers:
+      - "User-Agent: sanderDijkxhoorn's uptime"
   - name: status.zyki.net
     url: https://status.zyki.net/
+    headers:
+      - "User-Agent: sanderDijkxhoorn's uptime"
   - name: zyki.nl
     url: http://zyki.nl/
-
+    headers:
+      - "User-Agent: sanderDijkxhoorn's uptime"
 assignees: 
   - sanderDijkxhoorn
 status-website: # Status website (optional)
