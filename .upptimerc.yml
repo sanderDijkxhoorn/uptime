@@ -22,7 +22,6 @@ assignees:
 status-website: # Status website (optional)
   cname: uptime.zyki.net # Custom domain CNAME
   name: Uptime # Status website title
-  logoUrl: https://raw.githubusercontent.com/sanderDijkxhoorn/uptime/master/assets/bell.svg
   theme: dark
   #introTitle: "Welcome :)"
   #introMessage: Bla bla bla text here...
