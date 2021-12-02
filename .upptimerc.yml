@@ -3,6 +3,9 @@ repo: uptime
 sites: 
   - name: Zyki
     url: https://zyki.net/
+  - name: Zyki school
+    url: https://school.zyki.net/
+
 assignees: 
   - sanderDijkxhoorn
 status-website: # Status website (optional)
