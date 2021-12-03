@@ -1,6 +1,6 @@
 # [📈 Live Status](https://uptime.zyki.net): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Sander Dijkxhoorn](http://zyki.nl/), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Sander Dijkxhoorn](https://github.com/sanderDijkxhoorn), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/sanderDijkxhoorn/zyki.net-status/workflows/Uptime%20CI/badge.svg)](https://github.com/sanderDijkxhoorn/zyki.net-status/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/sanderDijkxhoorn/zyki.net-status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/sanderDijkxhoorn/zyki.net-status/actions?query=workflow%3A%22Response+Time+CI%22)
