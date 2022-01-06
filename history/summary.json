@@ -40,18 +40,20 @@
     "url": "https://status.zyki.net/",
     "icon": "https://favicons.githubusercontent.com/status.zyki.net",
     "slug": "status-zyki-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 728,
-    "timeDay": 685,
-    "timeWeek": 639,
-    "timeMonth": 738,
-    "timeYear": 728,
-    "dailyMinutesDown": {}
+    "time": 1009,
+    "timeDay": 7167,
+    "timeWeek": 2265,
+    "timeMonth": 1145,
+    "timeYear": 1009,
+    "dailyMinutesDown": {
+      "2022-01-06": 0
+    }
   },
   {
     "name": "zyki.nl",
