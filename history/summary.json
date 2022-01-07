@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 517,
-    "timeDay": 541,
-    "timeWeek": 511,
-    "timeMonth": 530,
-    "timeYear": 517,
+    "time": 521,
+    "timeDay": 689,
+    "timeWeek": 542,
+    "timeMonth": 535,
+    "timeYear": 521,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 432,
-    "timeDay": 486,
-    "timeWeek": 462,
-    "timeMonth": 482,
-    "timeYear": 432,
+    "time": 435,
+    "timeDay": 547,
+    "timeWeek": 484,
+    "timeMonth": 486,
+    "timeYear": 435,
     "dailyMinutesDown": {}
   },
   {
@@ -41,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/status.zyki.net",
     "slug": "status-zyki-net",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 1003,
-    "timeDay": 5021,
-    "timeWeek": 2095,
-    "timeMonth": 1133,
-    "timeYear": 1003,
-    "dailyMinutesDown": {
-      "2022-01-06": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 997,
+    "timeDay": 5029,
+    "timeWeek": 2109,
+    "timeMonth": 1137,
+    "timeYear": 997,
+    "dailyMinutesDown": {}
   },
   {
     "name": "zyki.nl",
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1006,
-    "timeDay": 1101,
-    "timeWeek": 994,
-    "timeMonth": 1006,
-    "timeYear": 1006,
+    "time": 1009,
+    "timeDay": 1121,
+    "timeWeek": 1013,
+    "timeMonth": 1008,
+    "timeYear": 1009,
     "dailyMinutesDown": {}
   }
 ]
