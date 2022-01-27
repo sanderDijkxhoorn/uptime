@@ -40,9 +40,9 @@
     "url": "https://status.zyki.net/",
     "icon": "https://favicons.githubusercontent.com/status.zyki.net",
     "slug": "status-zyki-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 724,
     "timeMonth": 1163,
     "timeYear": 957,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-27": 0
+    }
   },
   {
     "name": "zyki.nl",
