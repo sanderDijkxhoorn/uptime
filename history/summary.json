@@ -4,36 +4,40 @@
     "url": "https://zyki.net/",
     "icon": "https://favicons.githubusercontent.com/zyki.net",
     "slug": "zyki-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 600,
-    "timeDay": 452,
-    "timeWeek": 571,
-    "timeMonth": 714,
-    "timeYear": 600,
-    "dailyMinutesDown": {}
+    "time": 595,
+    "timeDay": 355,
+    "timeWeek": 532,
+    "timeMonth": 700,
+    "timeYear": 595,
+    "dailyMinutesDown": {
+      "2022-02-08": 0
+    }
   },
   {
     "name": "school.zyki.net",
     "url": "https://school.zyki.net/",
     "icon": "https://favicons.githubusercontent.com/school.zyki.net",
     "slug": "school-zyki-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 457,
-    "timeDay": 405,
-    "timeWeek": 481,
-    "timeMonth": 489,
-    "timeYear": 457,
-    "dailyMinutesDown": {}
+    "time": 454,
+    "timeDay": 321,
+    "timeWeek": 451,
+    "timeMonth": 481,
+    "timeYear": 454,
+    "dailyMinutesDown": {
+      "2022-02-08": 0
+    }
   },
   {
     "name": "status.zyki.net",
@@ -41,18 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/status.zyki.net",
     "slug": "status-zyki-net",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.85%",
+    "uptimeDay": "89.49%",
+    "uptimeWeek": "98.50%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.85%",
     "time": 926,
     "timeDay": 830,
     "timeWeek": 811,
     "timeMonth": 823,
     "timeYear": 926,
     "dailyMinutesDown": {
-      "2022-02-08": 0
+      "2022-02-08": 151
     }
   },
   {
